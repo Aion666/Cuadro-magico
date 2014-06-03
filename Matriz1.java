@@ -14,7 +14,7 @@ Domingo Uriel Mendez Ruiz
 
 
 
-public class Puzzle {
+public class Matriz {
 
 	public static void main(String[] puzzle) {
 
